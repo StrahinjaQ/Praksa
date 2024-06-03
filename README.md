@@ -33,10 +33,10 @@ Parametri koji se koriste u A* algoritmu:
    - E lista tuplova gde se svaki tuple sastoji od (u, v, w). ivica od cvora u do v sa tezinom w.
      
 2. Start Node
-   - 
+   - /
      
 3. Goal Node
-   -
+   - /
      
 4. Open List
    - Priority queue koji sadrzi cvorove koji su pronadjeni ali nisu procenjeni. Cvorovi se prioritizuju na osnovu ukupne cene.
@@ -62,7 +62,7 @@ Parametri koji se koriste u A* algoritmu:
     - racuna se u odnosu na razdaljinu, vreme i potrosnju nekih drugih resursa
       
 11. Neighboring Nodes
-    - 
+    - /
       
 12. Path Cost
     - Ukupna cena kretanja od pocetnog do trenutnog cvora
