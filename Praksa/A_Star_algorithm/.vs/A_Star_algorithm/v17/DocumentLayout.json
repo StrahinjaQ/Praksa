@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\fakultet\\praksa\\GitHub\\Praksa\\Praksa\\A_Star_algorithm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4D5246-16F9-4103-ACE1-F32D02F7EDD4}|A_Star_algorithm.csproj|d:\\documents\\fakultet\\praksa\\github\\praksa\\praksa\\a_star_algorithm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB4D5246-16F9-4103-ACE1-F32D02F7EDD4}|A_Star_algorithm.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 161,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documents\\fakultet\\praksa\\GitHub\\Praksa\\Praksa\\A_Star_algorithm\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Documents\\fakultet\\praksa\\GitHub\\Praksa\\Praksa\\A_Star_algorithm\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T12:48:01.158Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
