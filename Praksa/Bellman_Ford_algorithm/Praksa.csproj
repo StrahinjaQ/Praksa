@@ -43,9 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="InterfaceEdge.cs" />
-    <Compile Include="InterfaceGraph.cs" />
-    <Compile Include="InterfaceNode.cs" />
+    <Compile Include="AStarAlgoritam.cs" />
+    <Compile Include="BellmanFordAlgoritam.cs" />
+    <Compile Include="InterfaceAlgoritam.cs" />
+    <Compile Include="InterfaceNodeAStar.cs" />
+    <Compile Include="InterfaceNodeBF.cs" />
+    <Compile Include="Node.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

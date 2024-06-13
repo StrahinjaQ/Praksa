@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "D:\\Documents\\fakultet\\praksa\\GitHub\\Praksa\\Praksa\\Bellman_Ford_algorithm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4C77DD5D-04A6-4380-BEEF-DC9E43F8FDE6}|Praksa.csproj|d:\\documents\\fakultet\\praksa\\github\\praksa\\praksa\\bellman_ford_algorithm\\interfacegraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C77DD5D-04A6-4380-BEEF-DC9E43F8FDE6}|Praksa.csproj|solutionrelative:interfacegraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C77DD5D-04A6-4380-BEEF-DC9E43F8FDE6}|Praksa.csproj|D:\\Documents\\fakultet\\praksa\\GitHub\\Praksa\\Praksa\\Bellman_Ford_algorithm\\interfaceedge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C77DD5D-04A6-4380-BEEF-DC9E43F8FDE6}|Praksa.csproj|solutionrelative:interfaceedge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C77DD5D-04A6-4380-BEEF-DC9E43F8FDE6}|Praksa.csproj|D:\\Documents\\fakultet\\praksa\\GitHub\\Praksa\\Praksa\\Bellman_Ford_algorithm\\interfacenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C77DD5D-04A6-4380-BEEF-DC9E43F8FDE6}|Praksa.csproj|solutionrelative:interfacenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C77DD5D-04A6-4380-BEEF-DC9E43F8FDE6}|Praksa.csproj|D:\\Documents\\fakultet\\praksa\\GitHub\\Praksa\\Praksa\\Bellman_Ford_algorithm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4C77DD5D-04A6-4380-BEEF-DC9E43F8FDE6}|Praksa.csproj|d:\\documents\\fakultet\\praksa\\github\\praksa\\praksa\\bellman_ford_algorithm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C77DD5D-04A6-4380-BEEF-DC9E43F8FDE6}|Praksa.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C77DD5D-04A6-4380-BEEF-DC9E43F8FDE6}|Praksa.csproj|d:\\documents\\fakultet\\praksa\\github\\praksa\\praksa\\bellman_ford_algorithm\\interfacealgoritam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C77DD5D-04A6-4380-BEEF-DC9E43F8FDE6}|Praksa.csproj|solutionrelative:interfacealgoritam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C77DD5D-04A6-4380-BEEF-DC9E43F8FDE6}|Praksa.csproj|d:\\documents\\fakultet\\praksa\\github\\praksa\\praksa\\bellman_ford_algorithm\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C77DD5D-04A6-4380-BEEF-DC9E43F8FDE6}|Praksa.csproj|solutionrelative:node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C77DD5D-04A6-4380-BEEF-DC9E43F8FDE6}|Praksa.csproj|d:\\documents\\fakultet\\praksa\\github\\praksa\\praksa\\bellman_ford_algorithm\\interfacenodebf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C77DD5D-04A6-4380-BEEF-DC9E43F8FDE6}|Praksa.csproj|solutionrelative:interfacenodebf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C77DD5D-04A6-4380-BEEF-DC9E43F8FDE6}|Praksa.csproj|d:\\documents\\fakultet\\praksa\\github\\praksa\\praksa\\bellman_ford_algorithm\\bellmanfordalgoritam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C77DD5D-04A6-4380-BEEF-DC9E43F8FDE6}|Praksa.csproj|solutionrelative:bellmanfordalgoritam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C77DD5D-04A6-4380-BEEF-DC9E43F8FDE6}|Praksa.csproj|d:\\documents\\fakultet\\praksa\\github\\praksa\\praksa\\bellman_ford_algorithm\\interfacenodeastar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C77DD5D-04A6-4380-BEEF-DC9E43F8FDE6}|Praksa.csproj|solutionrelative:interfacenodeastar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C77DD5D-04A6-4380-BEEF-DC9E43F8FDE6}|Praksa.csproj|d:\\documents\\fakultet\\praksa\\github\\praksa\\praksa\\bellman_ford_algorithm\\astaralgoritam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C77DD5D-04A6-4380-BEEF-DC9E43F8FDE6}|Praksa.csproj|solutionrelative:astaralgoritam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +38,98 @@
       "DocumentGroups": [
         {
           "DockedWidth": 161,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "InterfaceGraph.cs",
-              "DocumentMoniker": "D:\\Documents\\fakultet\\praksa\\GitHub\\Praksa\\Praksa\\Bellman_Ford_algorithm\\InterfaceGraph.cs",
-              "RelativeDocumentMoniker": "InterfaceGraph.cs",
-              "ToolTip": "D:\\Documents\\fakultet\\praksa\\GitHub\\Praksa\\Praksa\\Bellman_Ford_algorithm\\InterfaceGraph.cs",
-              "RelativeToolTip": "InterfaceGraph.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAoAAAA",
+              "DocumentIndex": 6,
+              "Title": "AStarAlgoritam.cs",
+              "DocumentMoniker": "D:\\Documents\\fakultet\\praksa\\GitHub\\Praksa\\Praksa\\Bellman_Ford_algorithm\\AStarAlgoritam.cs",
+              "RelativeDocumentMoniker": "AStarAlgoritam.cs",
+              "ToolTip": "D:\\Documents\\fakultet\\praksa\\GitHub\\Praksa\\Praksa\\Bellman_Ford_algorithm\\AStarAlgoritam.cs",
+              "RelativeToolTip": "AStarAlgoritam.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKAAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T11:17:19.999Z",
+              "WhenOpened": "2024-06-12T09:47:27.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InterfaceNodeAStar.cs",
+              "DocumentMoniker": "D:\\Documents\\fakultet\\praksa\\GitHub\\Praksa\\Praksa\\Bellman_Ford_algorithm\\InterfaceNodeAStar.cs",
+              "RelativeDocumentMoniker": "InterfaceNodeAStar.cs",
+              "ToolTip": "D:\\Documents\\fakultet\\praksa\\GitHub\\Praksa\\Praksa\\Bellman_Ford_algorithm\\InterfaceNodeAStar.cs",
+              "RelativeToolTip": "InterfaceNodeAStar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:47:24.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BellmanFordAlgoritam.cs",
+              "DocumentMoniker": "D:\\Documents\\fakultet\\praksa\\GitHub\\Praksa\\Praksa\\Bellman_Ford_algorithm\\BellmanFordAlgoritam.cs",
+              "RelativeDocumentMoniker": "BellmanFordAlgoritam.cs",
+              "ToolTip": "D:\\Documents\\fakultet\\praksa\\GitHub\\Praksa\\Praksa\\Bellman_Ford_algorithm\\BellmanFordAlgoritam.cs",
+              "RelativeToolTip": "BellmanFordAlgoritam.cs",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAkwLMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:47:26.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InterfaceNodeBF.cs",
+              "DocumentMoniker": "D:\\Documents\\fakultet\\praksa\\GitHub\\Praksa\\Praksa\\Bellman_Ford_algorithm\\InterfaceNodeBF.cs",
+              "RelativeDocumentMoniker": "InterfaceNodeBF.cs",
+              "ToolTip": "D:\\Documents\\fakultet\\praksa\\GitHub\\Praksa\\Praksa\\Bellman_Ford_algorithm\\InterfaceNodeBF.cs",
+              "RelativeToolTip": "InterfaceNodeBF.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:47:23.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Node.cs",
+              "DocumentMoniker": "D:\\Documents\\fakultet\\praksa\\GitHub\\Praksa\\Praksa\\Bellman_Ford_algorithm\\Node.cs",
+              "RelativeDocumentMoniker": "Node.cs",
+              "ToolTip": "D:\\Documents\\fakultet\\praksa\\GitHub\\Praksa\\Praksa\\Bellman_Ford_algorithm\\Node.cs",
+              "RelativeToolTip": "Node.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:47:21.083Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "InterfaceEdge.cs",
-              "DocumentMoniker": "D:\\Documents\\fakultet\\praksa\\GitHub\\Praksa\\Praksa\\Bellman_Ford_algorithm\\InterfaceEdge.cs",
-              "RelativeDocumentMoniker": "InterfaceEdge.cs",
-              "ToolTip": "D:\\Documents\\fakultet\\praksa\\GitHub\\Praksa\\Praksa\\Bellman_Ford_algorithm\\InterfaceEdge.cs",
-              "RelativeToolTip": "InterfaceEdge.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Title": "InterfaceAlgoritam.cs",
+              "DocumentMoniker": "D:\\Documents\\fakultet\\praksa\\GitHub\\Praksa\\Praksa\\Bellman_Ford_algorithm\\InterfaceAlgoritam.cs",
+              "RelativeDocumentMoniker": "InterfaceAlgoritam.cs",
+              "ToolTip": "D:\\Documents\\fakultet\\praksa\\GitHub\\Praksa\\Praksa\\Bellman_Ford_algorithm\\InterfaceAlgoritam.cs",
+              "RelativeToolTip": "InterfaceAlgoritam.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T11:06:54.506Z"
+              "WhenOpened": "2024-06-12T09:47:25.737Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "InterfaceNode.cs",
-              "DocumentMoniker": "D:\\Documents\\fakultet\\praksa\\GitHub\\Praksa\\Praksa\\Bellman_Ford_algorithm\\InterfaceNode.cs",
-              "RelativeDocumentMoniker": "InterfaceNode.cs",
-              "ToolTip": "D:\\Documents\\fakultet\\praksa\\GitHub\\Praksa\\Praksa\\Bellman_Ford_algorithm\\InterfaceNode.cs",
-              "RelativeToolTip": "InterfaceNode.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T10:42:17.121Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Documents\\fakultet\\praksa\\GitHub\\Praksa\\Praksa\\Bellman_Ford_algorithm\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Documents\\fakultet\\praksa\\GitHub\\Praksa\\Praksa\\Bellman_Ford_algorithm\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T10:31:11.532Z"
+              "WhenOpened": "2024-06-12T09:47:20.071Z",
+              "EditorCaption": ""
             }
           ]
         }

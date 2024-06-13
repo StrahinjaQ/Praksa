@@ -4,12 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace A_Star_algorithm
+namespace Praksa
 {
-    internal class Program
+    public interface InterfaceAlgoritam
     {
-        static void Main(string[] args)
-        {
-        }
+        string Run();
     }
 }
