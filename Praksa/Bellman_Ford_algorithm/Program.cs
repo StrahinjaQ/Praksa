@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Praksa
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {   
@@ -27,7 +27,6 @@ namespace Praksa
             var start = (0, 0);
             var goal = (5, 5);
 
-            //
             Console.Write("Koji algoritam zelite da koristite(A* ili Bellman-Ford): ");
             string userChoice = Console.ReadLine().Trim();
 
@@ -51,10 +50,15 @@ namespace Praksa
             public Selektor()
             {
                 algoritmi = new Dictionary<string, Type>()
+                {
+                    {"BELLMAN-FORD", typeof(BellmanFordAlgoritam) },
+                    {"A*", typeof(AStarAlgoritam) }
+                };
+            }
+
+            public void AddAlgorithm(string name, Type algorithmType)
             {
-                {"BELLMAN-FORD", typeof(BellmanFordAlgoritam) },
-                {"A*", typeof(AStarAlgoritam) }
-            };
+                algoritmi[name] = algorithmType;
             }
 
             public InterfaceAlgoritam GetAlgoritam(string choice, int[,] grid, (int, int) start, (int, int) goal)
