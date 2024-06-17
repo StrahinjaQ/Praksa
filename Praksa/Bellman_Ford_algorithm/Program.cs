@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Security.Cryptography;
 using System.Security.Cryptography.X509Certificates;
@@ -25,7 +26,7 @@ namespace Praksa
         };
 
             var start = (0, 0);
-            var goal = (5, 5);
+            var goal = (4, 4);
 
             Console.Write("Koji algoritam zelite da koristite(A* ili Bellman-Ford): ");
             string userChoice = Console.ReadLine().Trim();
@@ -39,6 +40,10 @@ namespace Praksa
             {
                 Console.WriteLine(e.Message);
             }
+
+            // Čekanje na unos korisnika pre nego što se prozor zatvori
+            Console.WriteLine("\nPritisnite Enter za zatvaranje aplikacije...");
+            Console.ReadLine();
         }
 
 
@@ -46,6 +51,7 @@ namespace Praksa
         public class Selektor
         {
             private readonly Dictionary<string, Type> algoritmi;
+            private InterfaceAlgoritam algoritam;
 
             public Selektor()
             {
@@ -65,7 +71,8 @@ namespace Praksa
             {
                 if (algoritmi.TryGetValue(choice.ToUpper(), out Type algorithmType))
                 {
-                    return (InterfaceAlgoritam)Activator.CreateInstance(algorithmType, grid, start, goal);
+                    algoritam = (InterfaceAlgoritam)Activator.CreateInstance(algorithmType, grid, start, goal);
+                    return algoritam;
                 }
                 else
                 {

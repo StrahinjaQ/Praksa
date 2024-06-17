@@ -82,7 +82,9 @@ namespace Praksa
 
         public double GetCost(Node currentNode, Node neighbor)
         {
-            return 1; //cena se moze randomizovati
+            Random rnd = new Random();
+            int cost = rnd.Next(10);
+            return cost; //cena se moze randomizovati
         }
 
         public double GetTotalCost(Node node)

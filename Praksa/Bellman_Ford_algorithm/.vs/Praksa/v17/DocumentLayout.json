@@ -1,12 +1,138 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Documents\\fakultet\\praksa\\GitHub\\Praksa\\Praksa\\Bellman_Ford_algorithm\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DD8C19-CA22-4C3A-9AC3-0E689F6DFFDB}|..\\Moqovi\\Moqovi.csproj|d:\\documents\\fakultet\\praksa\\github\\praksa\\praksa\\moqovi\\moqselektor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C77DD5D-04A6-4380-BEEF-DC9E43F8FDE6}|Praksa.csproj|d:\\documents\\fakultet\\praksa\\github\\praksa\\praksa\\bellman_ford_algorithm\\bellmanfordalgoritam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C77DD5D-04A6-4380-BEEF-DC9E43F8FDE6}|Praksa.csproj|solutionrelative:bellmanfordalgoritam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C77DD5D-04A6-4380-BEEF-DC9E43F8FDE6}|Praksa.csproj|d:\\documents\\fakultet\\praksa\\github\\praksa\\praksa\\bellman_ford_algorithm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C77DD5D-04A6-4380-BEEF-DC9E43F8FDE6}|Praksa.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C77DD5D-04A6-4380-BEEF-DC9E43F8FDE6}|Praksa.csproj|d:\\documents\\fakultet\\praksa\\github\\praksa\\praksa\\bellman_ford_algorithm\\interfacenodeastar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C77DD5D-04A6-4380-BEEF-DC9E43F8FDE6}|Praksa.csproj|solutionrelative:interfacenodeastar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C77DD5D-04A6-4380-BEEF-DC9E43F8FDE6}|Praksa.csproj|d:\\documents\\fakultet\\praksa\\github\\praksa\\praksa\\bellman_ford_algorithm\\interfacenodebf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C77DD5D-04A6-4380-BEEF-DC9E43F8FDE6}|Praksa.csproj|solutionrelative:interfacenodebf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C77DD5D-04A6-4380-BEEF-DC9E43F8FDE6}|Praksa.csproj|d:\\documents\\fakultet\\praksa\\github\\praksa\\praksa\\bellman_ford_algorithm\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C77DD5D-04A6-4380-BEEF-DC9E43F8FDE6}|Praksa.csproj|solutionrelative:node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C77DD5D-04A6-4380-BEEF-DC9E43F8FDE6}|Praksa.csproj|d:\\documents\\fakultet\\praksa\\github\\praksa\\praksa\\bellman_ford_algorithm\\astaralgoritam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C77DD5D-04A6-4380-BEEF-DC9E43F8FDE6}|Praksa.csproj|solutionrelative:astaralgoritam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MoqSelektor.cs",
+              "DocumentMoniker": "D:\\Documents\\fakultet\\praksa\\GitHub\\Praksa\\Praksa\\Moqovi\\MoqSelektor.cs",
+              "RelativeDocumentMoniker": "..\\Moqovi\\MoqSelektor.cs",
+              "ToolTip": "D:\\Documents\\fakultet\\praksa\\GitHub\\Praksa\\Praksa\\Moqovi\\MoqSelektor.cs",
+              "RelativeToolTip": "..\\Moqovi\\MoqSelektor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T10:15:57.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InterfaceNodeAStar.cs",
+              "DocumentMoniker": "D:\\Documents\\fakultet\\praksa\\GitHub\\Praksa\\Praksa\\Bellman_Ford_algorithm\\InterfaceNodeAStar.cs",
+              "RelativeDocumentMoniker": "InterfaceNodeAStar.cs",
+              "ToolTip": "D:\\Documents\\fakultet\\praksa\\GitHub\\Praksa\\Praksa\\Bellman_Ford_algorithm\\InterfaceNodeAStar.cs",
+              "RelativeToolTip": "InterfaceNodeAStar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T10:07:55.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InterfaceNodeBF.cs",
+              "DocumentMoniker": "D:\\Documents\\fakultet\\praksa\\GitHub\\Praksa\\Praksa\\Bellman_Ford_algorithm\\InterfaceNodeBF.cs",
+              "RelativeDocumentMoniker": "InterfaceNodeBF.cs",
+              "ToolTip": "D:\\Documents\\fakultet\\praksa\\GitHub\\Praksa\\Praksa\\Bellman_Ford_algorithm\\InterfaceNodeBF.cs",
+              "RelativeToolTip": "InterfaceNodeBF.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T10:07:51.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Node.cs",
+              "DocumentMoniker": "D:\\Documents\\fakultet\\praksa\\GitHub\\Praksa\\Praksa\\Bellman_Ford_algorithm\\Node.cs",
+              "RelativeDocumentMoniker": "Node.cs",
+              "ToolTip": "D:\\Documents\\fakultet\\praksa\\GitHub\\Praksa\\Praksa\\Bellman_Ford_algorithm\\Node.cs",
+              "RelativeToolTip": "Node.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T10:07:47.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BellmanFordAlgoritam.cs",
+              "DocumentMoniker": "D:\\Documents\\fakultet\\praksa\\GitHub\\Praksa\\Praksa\\Bellman_Ford_algorithm\\BellmanFordAlgoritam.cs",
+              "RelativeDocumentMoniker": "BellmanFordAlgoritam.cs",
+              "ToolTip": "D:\\Documents\\fakultet\\praksa\\GitHub\\Praksa\\Praksa\\Bellman_Ford_algorithm\\BellmanFordAlgoritam.cs",
+              "RelativeToolTip": "BellmanFordAlgoritam.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T21:44:43.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AStarAlgoritam.cs",
+              "DocumentMoniker": "D:\\Documents\\fakultet\\praksa\\GitHub\\Praksa\\Praksa\\Bellman_Ford_algorithm\\AStarAlgoritam.cs",
+              "RelativeDocumentMoniker": "AStarAlgoritam.cs",
+              "ToolTip": "D:\\Documents\\fakultet\\praksa\\GitHub\\Praksa\\Praksa\\Bellman_Ford_algorithm\\AStarAlgoritam.cs",
+              "RelativeToolTip": "AStarAlgoritam.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAiwKMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T21:41:14.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documents\\fakultet\\praksa\\GitHub\\Praksa\\Praksa\\Bellman_Ford_algorithm\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Documents\\fakultet\\praksa\\GitHub\\Praksa\\Praksa\\Bellman_Ford_algorithm\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAlwCMAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T21:37:47.67Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
