@@ -9,6 +9,8 @@ using static Praksa.Program;
 
 namespace Moqovi
 {
+    //Testovi se nazivaju NazivklaseTests
+    //Nemoj testirati sve kroz jedan test. Ovde testiramo samo selektor i njegovo ponasanje
     public class SelektorTestovi
     {
         [Fact]

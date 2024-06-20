@@ -10,8 +10,12 @@ using System.Threading.Tasks;
 
 namespace Praksa
 {
+
+    // CR Generalno drzi se jednog jezika bio to engleski ili srpski. Pobrisi sve usinge koje ne koristis. Takodje, prebaci klase u namespaceove i foldere. Nemoj dodavati klase u isti fajl :)
+
     public class Program
     {
+        // Prebaci logiku u neku klasu Algorithms nesto tako
         static void Main(string[] args)
         {   
             //inicijalizacija masumicnog grafa sa pocetkom i krajem
@@ -28,7 +32,7 @@ namespace Praksa
             var start = (0, 0);
             var goal = (4, 4);
 
-            Console.Write("Koji algoritam zelite da koristite(A* ili Bellman-Ford): ");
+            Console.Write("Koji algoritam zelite da koristite(A* ili Bellman-Ford): "); // Sve sto ispisujes treba sakriti u klasu, ovaj komentar ostavi da prodiskutujemo na sledecem syncu takodje.
             string userChoice = Console.ReadLine().Trim();
 
             try
@@ -40,6 +44,7 @@ namespace Praksa
             {
                 Console.WriteLine(e.Message);
             }
+            
 
             // Čekanje na unos korisnika pre nego što se prozor zatvori
             Console.WriteLine("\nPritisnite Enter za zatvaranje aplikacije...");
@@ -50,6 +55,8 @@ namespace Praksa
         //u ovoj klasi se izabrani algoritam poziva
         public class Selektor
         {
+            // Pravilo je da se polja nazivaju _naziv.
+            // PS Jako mi se svidja sto si primenio dizajn pattern
             private readonly Dictionary<string, Type> algoritmi;
             private InterfaceAlgoritam algoritam;
 
@@ -61,6 +68,9 @@ namespace Praksa
                     {"A*", typeof(AStarAlgoritam) }
                 };
             }
+
+
+            // CR visak metoda
 
             public void AddAlgorithm(string name, Type algorithmType)
             {
