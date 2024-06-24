@@ -1,17 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Xml.Linq;
+﻿using Praksa.Algorithms;
 
-namespace Praksa
+namespace Praksa.Interfaces
 {
-    // Ovo je reminder da prokomentarisem arhitekturu, nemoj ga brisati da ostane kad se cujemo. Ostale brisi
+    /*
+     * Ovo je reminder da prokomentarisem arhitekturu, nemoj ga brisati da ostane kad se cujemo. Ostale brisi
+    */
+
     public interface InterfaceNodeBF : InterfaceAlgoritam
     {
-        void Initialize();
-        void InitializeNodeCosts(Node[,] nodes); // Takodje nikakva inicijalizacija ne ide zajedno
         IEnumerable<Node> GetNeighbors(Node node);
         void RelaxEdges(Node[,] nodes);
         void RelaxEdge(Node u, Node v);

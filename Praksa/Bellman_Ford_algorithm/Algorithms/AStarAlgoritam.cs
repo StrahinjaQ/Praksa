@@ -1,10 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Praksa.Interfaces;
 
-namespace Praksa
+namespace Praksa.Algorithms
 {
     public class AStarAlgoritam : InterfaceNodeAStar
     {
@@ -13,14 +12,14 @@ namespace Praksa
         private readonly (int, int) _goal;
         private Node _startNode;
         private Node _goalNode;
-
+        
         public AStarAlgoritam(int[,] grid, (int, int) start, (int, int) goal)
         {
             _grid = grid;
             _start = start;
             _goal = goal;
         }
-
+        
         public void Initialize()
         {
             _startNode = new Node(_start.Item1, _start.Item2) { G = 0, H = CalculateHeuristic(new Node(_start.Item1, _start.Item2)) };

@@ -91,14 +91,16 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AStarAlgoritam.cs" />
-    <Compile Include="BellmanFordAlgoritam.cs" />
-    <Compile Include="InterfaceAlgoritam.cs" />
-    <Compile Include="InterfaceNodeAStar.cs" />
-    <Compile Include="InterfaceNodeBF.cs" />
-    <Compile Include="Node.cs" />
+    <Compile Include="Algorithms\AStarAlgoritam.cs" />
+    <Compile Include="Algorithms\BellmanFordAlgoritam.cs" />
+    <Compile Include="Interfaces\InterfaceAlgoritam.cs" />
+    <Compile Include="Interfaces\InterfaceNodeAStar.cs" />
+    <Compile Include="Interfaces\InterfaceNodeBF.cs" />
+    <Compile Include="Algorithms\Node.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RunAlgorithm\GrafIKonzola.cs" />
+    <Compile Include="RunAlgorithm\Selektor.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

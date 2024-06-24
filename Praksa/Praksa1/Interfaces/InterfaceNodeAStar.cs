@@ -1,11 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Xml.Linq;
+﻿using System.Collections.Generic;
+using Praksa1.Algorithms;
 
-namespace Praksa
+namespace Praksa1.Interfaces
 { 
     public interface InterfaceNodeAStar : InterfaceAlgoritam
     {

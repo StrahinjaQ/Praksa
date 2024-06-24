@@ -1,11 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Xml.Linq;
+using Praksa.Interfaces;
 
-namespace Praksa
+namespace Praksa.Algorithms
 {
     public class BellmanFordAlgoritam : InterfaceNodeBF
     {
@@ -15,7 +12,7 @@ namespace Praksa
         private Node[,] _nodes;
         private readonly int _rows;
         private readonly int _cols;
-
+        
         public BellmanFordAlgoritam(int[,] grid, (int, int) start, (int, int) goal)
         {
             _grid = grid;
@@ -24,7 +21,7 @@ namespace Praksa
             _rows = grid.GetLength(0);
             _cols = grid.GetLength(1);
         }
-
+        
         public void Initialize()
         {
             _nodes = new Node[_rows, _cols];

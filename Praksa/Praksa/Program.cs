@@ -1,6 +1,6 @@
 ﻿using Praksa.RunAlgorithm;
 
-namespace Praksa
+namespace Praksa1
 {
     /*
      * CR Generalno drzi se jednog jezika bio to engleski ili srpski. Pobrisi sve usinge koje ne koristis. Takodje, prebaci klase u namespaceove i foldere. Nemoj dodavati klase u isti fajl :)

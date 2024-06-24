@@ -1,10 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace Praksa
+namespace Praksa1.Algorithms
 {
     //posto je cvor isti za oba algoritma odvojeno ga inicijalizujem u ovoj klasi
     public class Node : IComparable<Node>
