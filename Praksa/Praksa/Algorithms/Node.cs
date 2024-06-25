@@ -1,4 +1,6 @@
-﻿namespace Praksa.Algorithms
+﻿using System;
+
+namespace Praksa.Algorithms
 {
     //posto je cvor isti za oba algoritma odvojeno ga inicijalizujem u ovoj klasi
     public class Node : IComparable<Node>

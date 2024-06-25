@@ -1,4 +1,5 @@
 ﻿using Praksa.Algorithms;
+using System.Collections.Generic;
 
 namespace Praksa.Interfaces
 {
