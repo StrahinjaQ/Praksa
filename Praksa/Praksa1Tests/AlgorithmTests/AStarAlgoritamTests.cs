@@ -107,7 +107,7 @@ namespace Praksa1Tests.AlgorithmTests
             double cost = algorithm.GetCost(currentNode, neighbor);
 
             // Assert
-            Assert.True(cost >= 0);
+            Assert.True(cost >= 0); //mozda nije trebalo ovo posto je cena uvek veca ili jednaka od 0
         }
 
         [Fact]
